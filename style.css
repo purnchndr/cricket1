@@ -1,0 +1,39 @@
+h1, h2 {
+    color: white;
+    text-shadow: 2px 2px grey;
+}
+
+#div1 {
+    background-color: darkblue;
+    color: white;
+    border: 1px solid black;
+    text-align: center;
+}
+
+#div2 {
+    border-radius: 25px;
+    column-count: 4;
+    column-rule-style: dotted;
+    column-rule-width: 2px;
+    border: 1px solid black;
+    box-shadow: 2px 2px 5px black;
+    font-family: monospace;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.articlehead {
+    font-size: "Times New Roman", Arial;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: underline overline;
+}
+
+img {
+    width: 200px;
+    height: 150px;
+    padding: 10px;
+    box-shadow: 3px 2px 1px black;
+    border: 1px solid black;
+    opacity: 0.8;
+}
